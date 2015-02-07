@@ -1,0 +1,16 @@
+.pagecontent {
+    padding: 24px;
+    background-color: white;
+}
+h1 {
+    color: rgb(0,0,0);
+    text-shadow: 5px 5px 5px #ff0000;
+}
+
+.pi {
+    font-family: arial, verdana;
+    color:grey;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
